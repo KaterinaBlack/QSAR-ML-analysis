@@ -1,0 +1,32 @@
+# Data files
+data.xlsx
+X_data.xlsx
+Y_data.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Plotly / output files
+Images/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+#catboost
+catboost_info/
